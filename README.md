@@ -6,3 +6,4 @@
 - When you've written your first test case,
   - Run tests: `npx nodemon ./test/testFile.test.js`
 
+You can find more katas [here](./katas)
