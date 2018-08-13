@@ -28,7 +28,7 @@ const people = [
   }
 ];
 
-insertionSortByKey(people, age);
+insertionSortByKey(people, "age");
 /*
 should return:
 [
